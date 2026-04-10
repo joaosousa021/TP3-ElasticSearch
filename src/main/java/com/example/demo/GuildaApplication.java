@@ -1,4 +1,4 @@
-package com.example.demo; // Lembre-se de manter a primeira linha igual ao nome do SEU pacote!
+package com.example.demo; 
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
